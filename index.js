@@ -30,6 +30,7 @@ module.exports = {
   , 'object-shorthand': OFF // TBD
   , 'prefer-arrow-callback': OFF // TBD
   , 'prefer-const': OFF // TBD
+  , 'prefer-destructuring': OFF // TBD
   , 'prefer-numeric-literals': OFF // TBD
   , 'prefer-reflect': OFF // TBD
   , 'prefer-rest-params': OFF // TBD
